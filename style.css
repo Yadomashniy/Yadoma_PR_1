@@ -1,0 +1,162 @@
+body{
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 50px;
+    max-width: 1000px;
+    margin: 0px auto;
+}
+
+p{
+    text-align: left;
+    margin-left: 10px;
+}
+
+.header{
+    display: flex;
+}
+
+.header__block{
+    height: 40px;
+    width: 250px;
+    background-color: black;
+}
+
+.header__block_2{
+    height: 40px;
+    width: 200px;
+    background-color: black;
+    margin-left: auto;
+}
+
+.nav{
+    height: 50px;
+    width: auto;
+    background-color: black;
+    margin-top: 70px;
+}
+
+.main{
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+    gap: 130px;
+    border: 5px solid red;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.main__block{
+    margin-top: 60px;
+    justify-content: center;
+    text-align: center;
+}
+
+.main__block_1{
+    margin: 0px auto;
+    width: 190px;
+    height: 190px;
+    background-color: black;
+}
+
+.redbox{
+    margin-top: 60px;
+    display: flex;
+    gap: 50px;
+}
+
+.redbox__left{
+    border: 5px solid red;
+    width: 600px;
+}
+
+.redbox__right{
+    border: 5px solid red;
+    width: 500px;
+}
+
+.redbox_black{
+    min-width: 90px;
+    height: 90px;
+    background-color: black;
+    margin-top: 25px;
+}
+
+.redbox__left_article_1{
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.redbox__left_article_2{
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.redbox__left_article_3{
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.redbox__left_article_4{
+    align-items: center;
+    margin-left: 10px;
+}
+
+.redbox__left_article_5{
+    align-items: center;
+    margin-left: 10px;
+}
+
+.redbox__left_article_6{
+    align-items: center;
+    margin-left: 10px;
+}
+
+
+
+.blocks{
+    display: flex;
+    gap: 280px;
+    margin-top: 40px;
+}
+
+.blocks__left{
+    align-items: left;
+    
+
+}
+
+.blocks__right{
+    align-items: left;
+}
+
+.blocks__left_0{
+    width: 300px;
+    height: 50px;
+    background-color: black;
+}
+
+.blocks__left_1{
+    width: 300px;
+    height: 50px;
+    background-color: black;
+}
+
+.blocks__left_2{
+    margin-top: 40px;
+    width: 300px;
+    height: 65px;
+    background-color: black;
+}
+
+.blocks__left_3{
+    margin-top: 40px;
+    width: 300px;
+    height: 65px;
+    background-color: black;
+}
